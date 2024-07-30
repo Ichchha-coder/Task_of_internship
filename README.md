@@ -1,1 +1,1 @@
-Basic tasks related to the computer vision, amchine learning and  mathematics 
+Basic tasks related to the computer vision, machine learning and  mathematics 
